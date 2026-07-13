@@ -61,3 +61,6 @@ Cargo.lock
 
 # ---- Bootstrap checkpoint (added at finalize step) ----
 # .checkpoint is appended dynamically by the github-repo-bootstrap skill
+
+# ---- Bootstrap checkpoint ----
+.checkpoint
