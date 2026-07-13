@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "slug": "multi-tenant-saas-testing",
+  "step": "created",
+  "completed_specs": [],
+  "pending_specs": ["seed-two-tenants", "teardown-two-tenants", "e2e-cross-tenant-leakage", "api-cross-tenant-leakage", "job-cross-tenant-leakage", "ci-cross-tenant-leakage"],
+  "created_at": "2026-07-13T12:21:20Z",
+  "updated_at": "2026-07-13T12:21:20Z"
+}
